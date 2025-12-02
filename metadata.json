@@ -1,0 +1,7 @@
+{
+  "name": "Brigands & Breadknives Experience",
+  "description": "An interactive, AI-enhanced landing page for the fantasy novel 'Brigands & Breadknives'. Features character chat, art generation, and immersive lore.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
